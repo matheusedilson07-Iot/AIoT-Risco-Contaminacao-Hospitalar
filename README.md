@@ -25,7 +25,7 @@ O sistema utiliza conceitos de:
 * Streamlit
 * Computação em nuvem
 
-O objetivo é realizar a classificação inteligente de risco de contaminação ambiental hospitalar utilizando dados de sensores e algoritmos de aprendizado de máquina.
+O objetivo é realizar a classificação inteligente de risco de contaminação no ambiente hospitalar utilizando dados de sensores e algoritmos de aprendizado de máquina.
 
 ---
 
@@ -104,7 +104,7 @@ Foram treinados dois algoritmos:
 Acurácia aproximada:
 
 ```text
-96.04%
+95.99%
 ```
 
 ## Random Forest
@@ -112,7 +112,7 @@ Acurácia aproximada:
 Acurácia aproximada:
 
 ```text
-96.18%
+97.17%
 ```
 
 O modelo Random Forest apresentou melhor desempenho geral.
@@ -181,9 +181,7 @@ Os algoritmos apresentaram elevada acurácia, mostrando potencial para aplicaç�
 ---
 
 # Autor
-
 Matheus Edilson dos Santos
-
 Pós-Graduação em Internet das Coisas (IoT)
 IFSP – Câmpus Catanduva
 
